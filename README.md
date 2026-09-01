@@ -1,7 +1,7 @@
 ## Mreoow
 
 ## Languages I know
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white )](https://dotnet.microsoft.com/en-us/languages/csharp )
 
 ## Languages I want to learn
