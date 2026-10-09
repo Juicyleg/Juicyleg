@@ -3,6 +3,7 @@
 
 ## Languages I know
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white )](https://dotnet.microsoft.com/en-us/languages/csharp )
 
 ## Languages I want to learn
